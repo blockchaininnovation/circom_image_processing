@@ -1,0 +1,7 @@
+node_modules
+work
+*.json
+image.bmp
+*.edit.bmp
+*.log
+output.csv

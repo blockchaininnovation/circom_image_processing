@@ -1,0 +1,6 @@
+[submodule "circom-chacha20"]
+	path = circom-chacha20
+	url = https://github.com/reclaimprotocol/circom-chacha20.git
+[submodule "poseidon-encryption-circom2"]
+	path = poseidon-encryption-circom2
+	url = https://github.com/Shigoto-dev19/poseidon-encryption-circom2.git
